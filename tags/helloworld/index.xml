@@ -1,0 +1,5 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>helloworld - Tag - Raúl Correia Personal Blog</title><link>https://raulcorreia.dev/tags/helloworld/</link><description>helloworld - Tag - Raúl Correia Personal Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 01 Dec 2020 18:13:45 +0000</lastBuildDate><atom:link href="https://raulcorreia.dev/tags/helloworld/" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://raulcorreia.dev/first-post/</link><pubDate>Tue, 01 Dec 2020 18:13:45 +0000</pubDate><author>Author</author><guid>https://raulcorreia.dev/first-post/</guid><description><![CDATA[<p>Hello world!</p>
+<p>This is my first post on my new created blog.</p>
+<p>I&rsquo;m a Software Engineer that moved countries in a mist of a pandemic.
+Here i share my ideas, projects and interests.
+To celebrate i leave my favorite game of all time as a easter egg.</p>]]></description></item></channel></rss>
