@@ -4,7 +4,7 @@
 ## Ubuntu ❤️ Docker
 Hello everyone,
 
-Recently I installed the latest non LTS version of [Ubuntu 20.10 Groovy Gorilla](https://releases.ubuntu.com/20.10/), and found it a bit of a hassle to install Docker with [this](https://docs.docker.com/engine/install/ubuntu/), following the repository tutorial step.
+Recently I installed the latest non LTS version of [Ubuntu 20.10 Groovy Gorilla](https://releases.ubuntu.com/20.10/), and found it a bit of a hassle to install Docker with [this](https://docs.docker.com/engine/install/ubuntu/) tutorial, through the repository step.
 
 <!--more-->
 
@@ -20,7 +20,6 @@ sudo add-apt-repository \
 {{< /highlight >}}
 
 ### Error ⛔
-The error is in:
 
 {{< highlight bash >}}
     "..
